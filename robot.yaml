@@ -1,0 +1,7 @@
+tasks:
+  ExtractNews:
+    robot: .
+    shell: python
+    command: python -m robot
+
+artifactsDir: output
